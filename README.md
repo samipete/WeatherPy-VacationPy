@@ -7,7 +7,7 @@ This project is broken down into two parts:
     1.WeatherPy:
         - creates plots to show the relationship between weather variables and latitude.
 
-        - computes and shows linear regression for each relationship and provides a discussion about the linear relatioship 
+        - computes and shows linear regression for each relationship and provides a discussion about the linear relationship 
 
     2. VacationPy:
         - uses geoviews and the Geoapify API to create a map which displays a point for each city and indicates humditiy relative to the size of the point (shown in the first image)
