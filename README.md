@@ -17,4 +17,4 @@ This project is broken down into two parts:
         - finds the first hotel located within 10,000 metres 
         
         - adds the hotel name and the country as additional information in the hover message for each city in the map.
-![hotels_image](/output_data/hotels_map%20with%20hover%20message.png)
+![hotels_image](/output_data/hotel%20hover%20message.png)
